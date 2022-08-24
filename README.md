@@ -19,15 +19,7 @@
 </div>
 
 
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Check+out+my+latest+projects..." alt="Typing SVG" /></a>
-
-<div display="grid" grid-template-columns="repeat(3, 1fr)">
-  <img src="https://github.com/script696/script696/blob/main/img/IMessengerGif.gif" width="33%">
-<img src="https://github.com/script696/script696/blob/main/img/portgolioGifGitV2.gif" width="33%">
-<img src="https://github.com/script696/script696/blob/main/img/mestoGif.gif" width="33%">
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Glad+to+see+you+hear!" alt="Typing SVG" /></a>
 
 ---
 
@@ -41,7 +33,8 @@
     </td>
     <td width="33%">
       <h3 align="center">ᴘᴏʀᴛғᴏʟɪᴏ</h3>
-      <img src="https://github.com/script696/script696/blob/main/img/portgolioGifGitV2.gif" width="100%">
+      <a target="_blank" href="http://niksemenov.ru/"><img src="https://github.com/script696/script696/blob/main/img/portgolioGifGitV2.gif" width="100%">   
+      </a>
     </td>
     <td width="33%">
       <h3 align="center">ᴍᴇsᴛᴏ</h3>
