@@ -12,4 +12,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=script696&show_icons=true&locale=en" alt="script696" /></p>
 
 
-<img src="https://tenor.com/view/oh-damn-it-storage-space-is-full-michael-charles-roman-adam-june-diane-raphael-gif-17551376" width="256">
+<div display="grid" grid-template-columns="repeat(3, 1fr)">
+  <img src="https://github.com/script696/script696/blob/main/img/IMessengerGif.gif" width="33%">
+<img src="https://github.com/script696/script696/blob/main/img/portgolioGifGitV2.gif" width="33%">
+<img src="https://github.com/script696/script696/blob/main/img/mestoGif.gif" width="33%">
+</div>
+
