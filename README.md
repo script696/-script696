@@ -3,49 +3,57 @@
 
 
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=40&pause=1000&color=FFFFFF&vCenter=true&width=600&height=100&lines=Glad+to+see+you+hear!" alt="Typing SVG" /></a>
+
+I am a junior web developer. Currently i finishing my studies at Yandex Practicum and am actively looking for a job to join a team of professional developers.
+Do you want to invite me for an interview or do you have ideas for working together? Contact me at the links below or see examples of my work.
+Thank you for coming to visit ✌️
 
 
-<div align="center">
-  <a href="https://www.youtube.com/c/YauhenKavalchuk?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCE9ODjNIkOHrnSdkYWLfYhg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/YauhenKavalchuk">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCE9ODjNIkOHrnSdkYWLfYhg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://github.com/YauhenKavalchuk?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/YauhenKavalchuk"/></a>
-  <a href="https://github.com/YauhenKavalchuk?tab=repositories&sort=stargazers">
-    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/YauhenKavalchuk"/></a>
-  <a href="https://github.com/YauhenKavalchuk">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/YauhenKavalchuk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</div>
+## 🌎 Find me around the web 
+- My HeadHunter resume <a href="https://spb.hh.ru/applicant/resumes/view?resume=0893424dff0b1c42f00039ed1f677746693762" target="_blank">HeadHunter</a>
+- My Telegram social <a href="https://t.me/SchastliviyKot" target="_blank">Vkontakte</a> 
+- My site: <a href="https://www.niksemenov.ru/" target="_blank">Niksemenov</a>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Glad+to+see+you+hear!" alt="Typing SVG" /></a>
+## 🔨 My skills
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30px"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" height="30px"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="30px"/>
+  
+</p>
 
----
 
-### 👀 GitHub projects
 
-<table>
-  <tr>
+### 👀 Check my last projects
+
+<table >
+  <tr >
     <td width="33%">
     <h3 align="center">ᴍᴇssᴇɴɢᴇʀ</h3>
-      <img src="https://github.com/script696/script696/blob/main/img/IMessengerGif.gif" width="100%">
+      <a href="http://niksemenov.ru/"><img src="https://github.com/script696/script696/blob/main/img/IMessengerGif.gif" width="100%"> </a>
     </td>
     <td width="33%">
       <h3 align="center">ᴘᴏʀᴛғᴏʟɪᴏ</h3>
-      <a target="_blank" href="http://niksemenov.ru/"><img src="https://github.com/script696/script696/blob/main/img/portgolioGifGitV2.gif" width="100%">   
+      <a href="http://niksemenov.ru/"><img src="https://github.com/script696/script696/blob/main/img/portgolioGifGitV2.gif" width="100%">   
       </a>
     </td>
     <td width="33%">
       <h3 align="center">ᴍᴇsᴛᴏ</h3>
-      <img src="https://github.com/script696/script696/blob/main/img/mestoGif.gif" width="100%">
+      <a href="http://niksemenov.ru/"><img src="https://github.com/script696/script696/blob/main/img/mestoGif.gif" width="100%"></a>
     </td>
   </tr>
 </table>
 
----
 
----
 
 ### ⚙️ GitHub Analytics
 
@@ -61,6 +69,7 @@
 </table>
 
 ---
+
 
 
 
