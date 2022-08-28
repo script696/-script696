@@ -39,7 +39,7 @@ Thank you for coming to visit ✌️
   <tr >
     <td width="33%">
     <h3 align="center">ᴍᴇssᴇɴɢᴇʀ</h3>
-      <a href="http://niksemenov.ru/"><img src="https://github.com/script696/script696/blob/main/img/IMessengerGif.gif" width="100%"> </a>
+      <a href="https://script696.github.io/messenger/"><img src="https://github.com/script696/script696/blob/main/img/IMessengerGif.gif" width="100%"> </a>
     </td>
     <td width="33%">
       <h3 align="center">ᴘᴏʀᴛғᴏʟɪᴏ</h3>
@@ -48,7 +48,7 @@ Thank you for coming to visit ✌️
     </td>
     <td width="33%">
       <h3 align="center">ᴍᴇsᴛᴏ</h3>
-      <a href="http://niksemenov.ru/"><img src="https://github.com/script696/script696/blob/main/img/mestoGif.gif" width="100%"></a>
+      <a href="https://script696.github.io/mesto/"><img src="https://github.com/script696/script696/blob/main/img/mestoGif.gif" width="100%"></a>
     </td>
   </tr>
 </table>
