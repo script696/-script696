@@ -11,8 +11,9 @@ Thank you for coming to visit ✌️
 
 
 ## 🌎 Find me around the web 
-- My HeadHunter resume <a href="https://spb.hh.ru/applicant/resumes/view?resume=0893424dff0b1c42f00039ed1f677746693762" target="_blank">HeadHunter</a>
-- My Telegram social <a href="https://t.me/SchastliviyKot" target="_blank">Vkontakte</a> 
+- My HH resume <a href="https://spb.hh.ru/applicant/resumes/view?resume=0893424dff0b1c42f00039ed1f677746693762" target="_blank">HeadHunter</a>
+- My TG social <a href="https://t.me/SchastliviyKot" target="_blank">Telegram</a> 
+- My VK social <a href="[https://t.me/SchastliviyKot](https://vk.com/al_feed.php)" target="_blank">Vkontakte</a> 
 - My site: <a href="http://niksemenov.ru/" target="_blank">Portfolio</a>
 
 
