@@ -13,7 +13,7 @@ Thank you for coming to visit ✌️
 ## 🌎 Find me around the web 
 - My HeadHunter resume <a href="https://spb.hh.ru/applicant/resumes/view?resume=0893424dff0b1c42f00039ed1f677746693762" target="_blank">HeadHunter</a>
 - My Telegram social <a href="https://t.me/SchastliviyKot" target="_blank">Vkontakte</a> 
-- My site: <a href="https://www.niksemenov.ru/" target="_blank">Niksemenov</a>
+- My site: <a href="http://niksemenov.ru/" target="_blank">Portfolio</a>
 
 
 ## 🔨 My skills
@@ -28,7 +28,9 @@ Thank you for coming to visit ✌️
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" height="30px"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="30px"/>
-  
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
 </p>
 
 
