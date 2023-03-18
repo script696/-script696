@@ -5,16 +5,20 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=40&pause=1000&color=FFFFFF&vCenter=true&width=600&height=100&lines=Glad+to+see+you+hear!" alt="Typing SVG" /></a>
 
+## 📫 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 I am a Web Developer. 
 If you want to join my project or you have interesting ideas, please contact me!
 Thank you for coming to visit ✌️
 
 
-## 🌎 Find me around the web 
+## 📫 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - My HH resume <a href="https://spb.hh.ru/applicant/resumes/view?resume=0893424dff0b1c42f00039ed1f677746693762" target="_blank">HeadHunter</a>
 - My TG social <a href="https://t.me/script696" target="_blank">Telegram</a> 
 - My VK social <a href="https://vk.com/id11926435" target="_blank">Vkontakte</a> 
 
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🔨 My skills
 <p align="left">
@@ -34,45 +38,37 @@ Thank you for coming to visit ✌️
 </p>
 
 
+## 👀 Check my project
+Project consist of e-commerce telegram shop (script-shop), dashboard to control them (script-panel) and Backend (script-api)
 
-### 👀 Check my last projects
+Try no create some product in panel or buy it in shop (Pls tell me if detect some bugs!) 
 
-<table >
-  <tr >
-    <td width="33%">
-    <h3 align="center">ᴍᴇssᴇɴɢᴇʀ</h3>
-      <a href="https://script696.github.io/messenger/"><img src="https://github.com/script696/script696/blob/main/img/IMessengerGif.gif" width="100%"> </a>
-    </td>
-    <td width="33%">
-      <h3 align="center">ᴘᴏʀᴛғᴏʟɪᴏ</h3>
-      <a href="http://niksemenov.ru/"><img src="https://github.com/script696/script696/blob/main/img/portgolioGifGitV2.gif" width="100%">   
-      </a>
-    </td>
-    <td width="33%">
-      <h3 align="center">ᴍᴇsᴛᴏ</h3>
-      <a href="https://script696.github.io/mesto/"><img src="https://github.com/script696/script696/blob/main/img/mestoGif.gif" width="100%"></a>
-    </td>
-  </tr>
-</table>
+- TG Bot <a href="https://t.me/script696_bot" target="_blank">Script shop</a>
+- Admin Dashboard <a href="http://script-panel.ru" target="_blank">Script panel</a>
 
+<a href="https://github.com/script696/script-panel">
+  <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=script696&repo=script-panel" />
+</a>
+<a href="https://github.com/script696/script-shop">
+  <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=script696&repo=script-shop" />
+</a>
+<a href="https://github.com/script696/script-api">
+  <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=script696&repo=script-api" />
+</a>
 
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 Activity 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-### ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=script696&theme=algolia" alt="script696 Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="script696 Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=script696&theme=algolia&layout=compact" />
-    </td>
-  </tr>
-</table>
-
----
-
-
+## ⚙️ GitHub Analytics
+<div style="display: flex; gap: 10px">
+<a href="https://github.com/anuraghazra/github-readme-stats&#41">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=script696&theme=algolia" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats&#41">
+  <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=script696&theme=algolia&layout=compact" />
+</a>
+</div>
 
 
 
