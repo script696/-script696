@@ -5,16 +5,15 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=40&pause=1000&color=FFFFFF&vCenter=true&width=600&height=100&lines=Glad+to+see+you+hear!" alt="Typing SVG" /></a>
 
-I am a junior web developer. Currently i finishing my studies at Yandex Practicum and am actively looking for a job to join a team of professional developers.
-Do you want to invite me for an interview or do you have ideas for working together? Contact me at the links below or see examples of my work.
+I am a Web Developer. 
+If you want to join my project or you have interesting ideas, please contact me!
 Thank you for coming to visit ✌️
 
 
 ## 🌎 Find me around the web 
 - My HH resume <a href="https://spb.hh.ru/applicant/resumes/view?resume=0893424dff0b1c42f00039ed1f677746693762" target="_blank">HeadHunter</a>
-- My TG social <a href="https://t.me/SchastliviyKot" target="_blank">Telegram</a> 
-- My VK social <a href="[https://t.me/SchastliviyKot](https://vk.com/al_feed.php)" target="_blank">Vkontakte</a> 
-- My site: <a href="http://niksemenov.ru/" target="_blank">Portfolio</a>
+- My TG social <a href="https://t.me/script696" target="_blank">Telegram</a> 
+- My VK social <a href="https://vk.com/id11926435" target="_blank">Vkontakte</a> 
 
 
 ## 🔨 My skills
