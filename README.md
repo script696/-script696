@@ -1,5 +1,5 @@
 
-![I am a Frontend-developer](https://github.com/script696/script696/blob/main/img/MainImg.jpg)
+![I am a Frontend-developer](https://downloader.disk.yandex.ru/preview/4b9f14723406c720e80095c69ed1b628d60038bfcfa59c13bca68e658eac2562/641dac3b/MzxzpB9hLigk_hQ2k6mzO4sBtwMme6OhOmibFbPbZEcAnlCd8dw19-rassb_amkWR4ormtTxqGcPmLEQhJ2bfQ%3D%3D?uid=0&filename=MainImg.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
 
 
 
@@ -39,12 +39,17 @@ Thank you for coming to visit ✌️
 
 
 ## 👀 Check my project
-Project consist of e-commerce telegram shop (script-shop), dashboard to control them (script-panel) and Backend (script-api)
+
+<p align="center">
+<img  src="./gif/scriptShopGifHightQ.gif" />
+</p>
+
+Project consist of e-commerce telegram shop (Script Shop), dashboard to control them (script-panel) and Backend (script-api)
 
 Try no create some product in panel or buy it in shop (Pls tell me if detect some bugs!) 
 
-- TG Bot <a href="https://t.me/script696_bot" target="_blank">Script shop</a>
-- Admin Dashboard <a href="http://script-panel.ru" target="_blank">Script panel</a>
+Open Script Shop Bot in [Telegram](https://t.me/script696_bot) \
+Try to add/edit some product in [Dashboard](http://script-panel.ru)
 
 <a href="https://github.com/script696/script-panel">
   <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=script696&repo=script-panel" />
@@ -69,6 +74,10 @@ Try no create some product in panel or buy it in shop (Pls tell me if detect som
   <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=script696&theme=algolia&layout=compact" />
 </a>
 </div>
+
+
+
+
 
 
 
