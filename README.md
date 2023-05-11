@@ -1,6 +1,6 @@
 
-![I am a Frontend-developer](https://disk.yandex.ru/i/_6Fp9TMCSlybNw)
-img width="220" src="https://github.com/script696/script696/blob/main/img/MainImg.jpg" />
+
+<img  src="https://github.com/script696/script696/blob/main/img/MainImg.jpg" />
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=40&pause=1000&color=FFFFFF&vCenter=true&width=600&height=100&lines=Glad+to+see+you+hear!" alt="Typing SVG" /></a>
