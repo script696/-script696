@@ -1,5 +1,5 @@
 
-![I am a Frontend-developer](https://downloader.disk.yandex.ru/preview/4b9f14723406c720e80095c69ed1b628d60038bfcfa59c13bca68e658eac2562/641dac3b/MzxzpB9hLigk_hQ2k6mzO4sBtwMme6OhOmibFbPbZEcAnlCd8dw19-rassb_amkWR4ormtTxqGcPmLEQhJ2bfQ%3D%3D?uid=0&filename=MainImg.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
+![I am a Frontend-developer](https://disk.yandex.ru/i/_6Fp9TMCSlybNw)
 
 
 
