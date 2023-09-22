@@ -14,7 +14,6 @@ Thank you for coming to visit ✌️
 ## 📫 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - My HH resume <a href="https://spb.hh.ru/applicant/resumes/view?resume=0893424dff0b1c42f00039ed1f677746693762" target="_blank">HeadHunter</a>
 - My TG social <a href="https://t.me/script696" target="_blank">Telegram</a> 
-- My VK social <a href="https://vk.com/id11926435" target="_blank">Vkontakte</a> 
 
 
 ## 🔨 My skills
@@ -45,24 +44,12 @@ Project consist of e-commerce telegram shop (Script Shop), dashboard to control 
 
 Try no create some product in panel or buy it in shop (Pls tell me if detect some bugs!) 
 
-Open Script Shop Bot in [Telegram](https://t.me/script696_bot) \
+Open Script Shop Bot in [Telegram](https://t.me/script_xomi_bot) \
 Try to add/edit some product in [Dashboard](http://script-panel.ru)
 
-<a href="https://github.com/script696/script-panel">
-  <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=script696&repo=script-panel" />
-</a>
-<a href="https://github.com/script696/script-shop">
-  <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=script696&repo=script-shop" />
-</a>
-<a href="https://github.com/script696/script-api">
-  <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=script696&repo=script-api" />
-</a>
 
 ## ⚙️ GitHub Analytics
 <div style="display: flex; gap: 10px">
-<a href="https://github.com/anuraghazra/github-readme-stats&#41">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=script696&theme=algolia" />
-</a>
 <a href="https://github.com/anuraghazra/github-readme-stats&#41">
   <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=script696&theme=algolia&layout=compact" />
 </a>
